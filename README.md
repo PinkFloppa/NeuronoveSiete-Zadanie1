@@ -4,7 +4,7 @@
 ### Dataset
 - [X] ~~Augmentácia obrázkov z 623 na 2000 🔵~~ Nvm dataset už má augmentované obrázky
 ### Architektúry CNN
-#### GoogleNet
+#### GoogleNet 🔵
 - [ ] Implementácia
 - [ ] Control testovanie (optional)
 - [ ] Výsledky
@@ -16,7 +16,7 @@
 - [ ] Implementácia
 - [ ] Control testovanie (optional)
 - [ ] Výsledky
-#### Model z článku
+#### Model z článku 🔵
 - [ ] Implementácia
 - [ ] Výsledky
 ### R-CNN
