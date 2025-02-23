@@ -2,7 +2,7 @@
 ## TODO
 - [X] Nájsť článok 🔵[^1] 🟢[^2]
 ### Dataset
-- [ ] Augmentácia obrázkov z 623 na 2000 🔵
+- [X] ~~Augmentácia obrázkov z 623 na 2000 🔵~~ Nvm dataset už má augmentované obrázky
 ### Architektúry CNN
 #### GoogleNet
 - [ ] Implementácia
