@@ -8,7 +8,7 @@
 - [ ] Implementácia
 - [ ] Control testovanie (optional)
 - [ ] Výsledky
-#### AlexNet
+#### AlexNet 🔵
 - [ ] Implementácia
 - [ ] Control testovanie (optional)
 - [ ] Výsledky
@@ -16,13 +16,13 @@
 - [ ] Implementácia
 - [ ] Control testovanie (optional)
 - [ ] Výsledky
-#### Model z článku 🔵
+#### Model z článku 
 - [ ] Implementácia
 - [ ] Výsledky
 ### R-CNN
-- [ ] GoogleNet výsledky
-- [ ] AlexNet výsledky
-- [ ] Res-Net50 výsledky
-- [ ] Model z článku výsledky
+- [ ] GoogleNet 
+- [ ] AlexNet 
+- [ ] Res-Net50 
+- [ ] Model z článku 
 [^1]: Schmiedbauer
 [^2]: Tóth
