@@ -1,8 +1,6 @@
 # Zadanie č.1 - Replikácia článku
 ## TODO
-- [X] Nájsť článok 🔵[^1] 🟢[^2]
-### Dataset
-- [X] ~~Augmentácia obrázkov z 623 na 2000 🔵~~ Nvm dataset už má augmentované obrázky
+🔵[^1] 🟢[^2]
 ### Architektúry CNN
 #### GoogleNet 🔵
 - [ ] Implementácia
