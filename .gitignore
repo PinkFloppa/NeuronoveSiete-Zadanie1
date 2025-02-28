@@ -3,3 +3,5 @@ Mushroom dataset
 mushroom_dataset_x.npy
 mushroom_dataset_y.npy
 logs
+*.keras
+FinalTrainTestSet
