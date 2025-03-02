@@ -1,0 +1,13 @@
+Training :
+Average accuracy = 99.03%
+K group with best accuracy = 4
+Accuracy = 99.61 %
+
+Testing :
+Time = 45s
+
+ResNet50:
+Accuracy  95.50 %
+Precision 99.36 %
+Recall    95.09 %
+F1        97.18 %
