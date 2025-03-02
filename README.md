@@ -4,15 +4,12 @@
 ### Architektúry CNN
 #### GoogleNet 🔵
 - [ ] Implementácia
-- [ ] Control testovanie (optional)
 - [ ] Výsledky
 #### AlexNet 🔵
 - [ ] Implementácia
-- [ ] Control testovanie (optional)
 - [ ] Výsledky
 #### Res-Net50
 - [ ] Implementácia
-- [ ] Control testovanie (optional)
 - [ ] Výsledky
 #### Model z článku 
 - [ ] Implementácia
