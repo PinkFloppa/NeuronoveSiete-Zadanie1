@@ -5,12 +5,12 @@
 #### GoogleNet 🔵
 - [ ] Implementácia
 - [ ] Výsledky
-#### AlexNet 🔵
+#### AlexNet 
 - [ ] Implementácia
 - [ ] Výsledky
-#### Res-Net50
-- [ ] Implementácia
-- [ ] Výsledky
+#### Res-Net50 🔵
+- [X] Implementácia
+- [X] Výsledky
 #### Model z článku 
 - [ ] Implementácia
 - [ ] Výsledky
