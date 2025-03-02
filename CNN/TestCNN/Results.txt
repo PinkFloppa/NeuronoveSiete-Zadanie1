@@ -1,0 +1,11 @@
+Training :
+Average accuracy = 99.22 %
+K group with best accuracy = 3
+Accuracy = 99.72 %
+
+Test :
+Time : 10.86 sec
+Accuracy  89.50 %
+Precision 92.31 %
+Recall    94.12 %
+F1        93.20 %
