@@ -1,13 +1,13 @@
 Training :
-Average accuracy = 99.03%
-K group with best accuracy = 4
-Accuracy = 99.61 %
+Average accuracy = 99.04%
+K group with best accuracy = 2
+Accuracy = 99.89 %
 
 Testing :
-Time = 45s
+Time = 44.08s
 
 ResNet50:
-Accuracy  95.50 %
-Precision 99.36 %
-Recall    95.09 %
-F1        97.18 %
+Accuracy  97.50 %
+Precision 98.72 %
+Recall    98.09 %
+F1        98.40 %
