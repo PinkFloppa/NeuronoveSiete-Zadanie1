@@ -5,13 +5,7 @@
 #### GoogleNet 🔵
 - [ ] Implementácia
 - [ ] Výsledky
-#### AlexNet 
-- [ ] Implementácia
-- [ ] Výsledky
-#### Res-Net50 🔵
-- [X] Implementácia
-- [X] Výsledky
-#### Model z článku 
+#### Model z článku 🔵
 - [ ] Implementácia
 - [ ] Výsledky
 ### R-CNN
