@@ -5,3 +5,4 @@ mushroom_dataset_y.npy
 logs
 *.keras
 FinalTrainTestSet
+ArticleNet.mat
