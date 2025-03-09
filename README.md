@@ -3,11 +3,11 @@
 🔵[^1] 🟢[^2]
 ### Architektúry CNN
 #### GoogleNet 🔵
-- [ ] Implementácia
-- [ ] Výsledky
+- [X] Implementácia
+- [X] Výsledky
 #### Model z článku 🔵
-- [ ] Implementácia
-- [ ] Výsledky
+- [X] Implementácia
+- [X] Výsledky
 ### R-CNN
 - [ ] GoogleNet 
 - [ ] AlexNet 
