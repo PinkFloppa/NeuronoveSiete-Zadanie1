@@ -6,3 +6,4 @@ logs
 *.keras
 FinalTrainTestSet
 ArticleNet.mat
+RCNN/SegmentedDataset
