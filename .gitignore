@@ -6,3 +6,7 @@ logs
 *.keras
 FinalTrainTestSet
 ArticleNet.mat
+RCNN/SegmentedDataset/Edible/1-256
+RCNN/SegmentedDataset/Edible/256-512
+RCNN/SegmentedDataset/Edible/512-768
+RCNN/SegmentedDataset/Edible/768-1024
