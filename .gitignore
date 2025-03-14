@@ -11,4 +11,3 @@ RCNN/SegmentedDataset/Edible/256-512
 RCNN/SegmentedDataset/Edible/512-768
 RCNN/SegmentedDataset/Edible/768-1024
 SwirlDataset
-RCNN_TestSet
