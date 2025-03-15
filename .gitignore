@@ -12,3 +12,6 @@ RCNN/SegmentedDataset/Edible/512-768
 RCNN/SegmentedDataset/Edible/768-1024
 SwirlDataset
 AlexNet_model.mat
+GoogleNet_model.mat
+ResNet50_model.mat
+ArticleNet_model.mat
