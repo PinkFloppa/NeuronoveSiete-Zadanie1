@@ -3,6 +3,5 @@
 🔵[^1] 🟢[^2]
 ### Dokumentácia
 - [ ] LateX dokument
-- [ ] Zverejenie Githabu
 [^1]: Schmiedbauer
 [^2]: Tóth
