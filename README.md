@@ -2,6 +2,6 @@
 ## TODO
 🔵[^1] 🟢[^2]
 ### Dokumentácia
-- [ ] LateX dokument
+- [X] LateX document 🔵 🟢
 [^1]: Schmiedbauer
 [^2]: Tóth
